@@ -11,7 +11,7 @@
 #
 
 #=================================================
-#sudo rm -rf feeds/packages/net/sing-box
+sudo rm -rf feeds/packages/net/sing-box
 #sudo rm -rf feeds/packages/net/microsocks
 #sudo rm -rf feeds/packages/net/trojan-go
 #sudo rm -rf feeds/packages/net/v2ray
